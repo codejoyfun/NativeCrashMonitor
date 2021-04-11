@@ -1,4 +1,4 @@
-"# NativeCrashMonitor" 
+"# 定位native崩溃" 
 ```
 NativeCrashMonitor nativeCrashMonitor = new NativeCrashMonitor();
 //threadName 线程名 javaStackInfo java堆栈 nativeStackInfo native堆栈
